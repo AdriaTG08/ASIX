@@ -2,7 +2,7 @@
 
 Repositori amb els meus apunts diaris durant els estudis del cicle **ASIX (Administració de Sistemes Informàtics en Xarxa)**.
 
-> ⚠️ **Nota:** Tots els apunts estan escrits en **català**.
+> ⚠️ **Nota:** Tots els apunts estan escrits en **català**. / Todos los apuntes están escritos en **catalán.**
 
 > 🤖 Ús d'IA: Alguns apunts es generen o s'organitzen amb l'ajuda d'IA, com a suport per millorar el rendiment acadèmic i optimitzar el temps dedicat a redactar-los. El contingut es revisa i s'adapta al meu propi aprenentatge.
 
